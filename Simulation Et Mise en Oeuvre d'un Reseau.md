@@ -12,6 +12,16 @@ La simulation ou la mise en œuvre d'un réseau est une étape cruciale dans le 
 - **GNS3** : GNS3 (Graphical Network Simulator-3) est une plateforme de virtualisation de réseau open source qui permet de créer des topologies réseau complexes en utilisant des images d'appareils réels.
 - **EVE-NG** : EVE-NG (Emulated Virtual Environment - Next Generation) est une autre plateforme de virtualisation de réseau qui offre une grande flexibilité pour la création de topologies réseau.
 
+### Mais c'est quoi une Topologie Réseau??
+
+Une topologie réseau se réfère à la **structure physique ou logique d'un réseau informatique**, décrivant la manière dont les différents éléments du **réseau sont connectés et organisés**.
+
+Les types de topologies comprennent :
+- Topologie en **étoile**
+- Topologie en **anneau**
+- Topologie en **bus**
+- Topologie en **Maillage** (=Mesh)
+
 ### Avantages de la Simulation
 
 - **Coût Réduit** : La simulation de réseaux est souvent moins coûteuse que la mise en œuvre physique, car elle ne nécessite pas d'acheter du matériel réseau réel.
