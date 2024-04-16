@@ -9,8 +9,8 @@ La simulation ou la mise en œuvre d'un réseau est une étape cruciale dans le 
 ### Outils de Simulation
 
 - **Packet Tracer** : Développé par Cisco, Packet Tracer est un logiciel de simulation de réseaux qui permet aux utilisateurs de créer, configurer et dépanner des réseaux virtuels.
-- **GNS3** : GNS3 est une plateforme de virtualisation de réseau open source qui permet de créer des topologies réseau complexes en utilisant des images d'appareils réels.
-- **EVE-NG** : EVE-NG est une autre plateforme de virtualisation de réseau qui offre une grande flexibilité pour la création de topologies réseau.
+- **GNS3** : GNS3 (Graphical Network Simulator-3) est une plateforme de virtualisation de réseau open source qui permet de créer des topologies réseau complexes en utilisant des images d'appareils réels.
+- **EVE-NG** : EVE-NG (Emulated Virtual Environment - Next Generation) est une autre plateforme de virtualisation de réseau qui offre une grande flexibilité pour la création de topologies réseau.
 
 ### Avantages de la Simulation
 
