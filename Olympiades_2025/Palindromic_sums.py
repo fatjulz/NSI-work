@@ -19,6 +19,7 @@ def palindromic_sums(n):
         if is_palindrome(i) and is_palindrome(n - i):
             return [i, n - i]
 
+
     for i in range (1, n):
         for j in range (1, n):
                 if is_palindrome(i) and is_palindrome(j) and is_palindrome(n - i - j):
